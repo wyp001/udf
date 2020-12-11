@@ -1,4 +1,4 @@
-package com.linewell.udf.utils;
+package com.wyp.udf.utils;
 
 import com.aliyun.odps.udf.UDF;
 

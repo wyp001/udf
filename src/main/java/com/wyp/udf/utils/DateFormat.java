@@ -1,12 +1,10 @@
-package com.linewell.udf.utils;
+package com.wyp.udf.utils;
 
 import com.aliyun.odps.udf.UDF;
-import javafx.scene.input.DataFormat;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.PrimitiveIterator;
 
 public final class DateFormat extends UDF {
 
